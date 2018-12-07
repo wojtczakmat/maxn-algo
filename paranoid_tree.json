@@ -1,0 +1,31 @@
+{
+    "value": 0,
+    "children": [
+        {
+            "value": 0,
+            "children": [
+                {
+                    "value": -2,
+                    "children": []
+                },
+                {
+                    "value": 0,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "value": 0,
+            "children": [
+                {
+                    "value": -10,
+                    "children": []
+                },
+                {
+                    "value": -4,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
